@@ -1,0 +1,4 @@
+The aim of this project is to create a begginer to advanced level 
+knowledge in python in a cyber security point of view. For that 
+purpouse different set of projects will be created all the way from
+the begginer level.
